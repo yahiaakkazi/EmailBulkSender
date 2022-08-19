@@ -35,7 +35,7 @@ def main(contact = 'mycontacts.txt',message = 'message.txt'):
         msg.attach(MIMEText(message, 'plain'))
         
         # send the message via the server set up earlier.
-        # s.send_message(msg)
+        s.send_message(msg)
         print("done")
         del msg
         
