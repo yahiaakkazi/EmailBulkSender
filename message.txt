@@ -1,0 +1,6 @@
+Dear ${PERSON_NAME}, 
+
+This is a test message to test my humble python notebook :(. 
+Have a great weekend! 
+
+Yours Truly
