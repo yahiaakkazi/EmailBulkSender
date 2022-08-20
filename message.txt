@@ -1,6 +1,11 @@
-Dear ${PERSON_NAME}, 
+Bonjour ${CIV} ${PERSON_NAME},
 
-This is a test message to test my humble python notebook :(. 
-Have a great weekend! 
+J'espère que vous vous portez bien,
 
-Yours Truly
+Je m’adresse à vous par le présent mail pour vous soumettre ma candidature spontanée pour un stage en Machine Learning au sein de votre entreprise ${COMPANY}. Veuillez trouver en pièce jointe ma lettre de motivation et mon CV qui vous apporteront des précisions sur mon parcours, mes compétences et mes motivations.
+Je suis très passionné par l'IT, et avec une expérience professionnelle en DevOps, data engineering & data sicence, je suis certain de pouvoir apporter un plus à votre entité.
+Je vous remercie par avance du temps que vous passerez à examiner ma requête, tout en restant à votre entière disposition pour un futur entretien, et j’espère vous convaincre par mon profil.
+
+Très respectueusement,
+
+AKKAZI Yahia
